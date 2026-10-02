@@ -1,0 +1,9 @@
+# Support FAQ
+
+## Password Reset
+
+To reset your password, open the login page and click Forgot Password.
+
+## Account Lock
+
+If your account is locked, wait 15 minutes and try again.

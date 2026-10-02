@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "expectedSource": "faq.md"
+  },
+  {
+    "question": "What happens if my account is locked?",
+    "expectedSource": "faq.md"
+  },
+  {
+    "question": "How do I enable two-factor authentication?",
+    "expectedSource": "product-guide.md"
+  },
+  {
+    "question": "What does ERR-401 mean?",
+    "expectedSource": "troubleshooting.md"
+  },
+  {
+    "question": "What does ERR-403 mean?",
+    "expectedSource": "troubleshooting.md"
+  }
+]

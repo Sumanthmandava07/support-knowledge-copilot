@@ -1,0 +1,25 @@
+# Maven
+target/
+*.class
+
+# Environment / secrets
+.env
+*.env
+application-local.properties
+application-prod.properties
+
+# Uploaded documents
+data/uploads/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend
+support-knowledge-frontend/node_modules/
+support-knowledge-frontend/dist/
